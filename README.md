@@ -15,9 +15,9 @@ We are a community of Filipino career shifters and self-learners who support eac
 
 ### Join our Community
 
-Discord community [here](https://discord.gg/C6e8FzcgeK)
-Facebook Community [here](http://www.techcareershifter.com)
-Subreddit [here](http://reddit.techcareershifter.com/)
+<p> Discord community [here](https://discord.gg/C6e8FzcgeK) </p>
+<p> Facebook Community [here](http://www.techcareershifter.com) </p> 
+<p> Subreddit [here](http://reddit.techcareershifter.com/) </p>
 
 Visit the official <b>Tech Career Shifter Philippines Knowledgebase Wiki [here](http://wiki.techcareershifter.com/) </b>
 # career-shifters
