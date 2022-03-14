@@ -1,8 +1,7 @@
-<div align= "center" >
 
 ## WELCOME TO TECH CAREER SHIFTER PHILIPPINES!
 
-</div>
+
 We are a community of Filipino career shifters and self-learners who support each other's transition into the tech industry. It is open to everyone aspiring to be a Tech Professional: self-learners, IT/CS students and fresh graduates, and career-shifters alike.
 
 ### Mission
@@ -15,9 +14,9 @@ We are a community of Filipino career shifters and self-learners who support eac
 
 ### Join our Community
 
-<p> Discord community [here](https://discord.gg/C6e8FzcgeK) </p>
-<p> Facebook Community [here](http://www.techcareershifter.com) </p> 
-<p> Subreddit [here](http://reddit.techcareershifter.com/) </p>
+- Discord community [here](https://discord.gg/C6e8FzcgeK)
+- Facebook Community [here](http://www.techcareershifter.com)
+- Subreddit [here](http://reddit.techcareershifter.com/)
 
 Visit the official <b>Tech Career Shifter Philippines Knowledgebase Wiki [here](http://wiki.techcareershifter.com/) </b>
 # career-shifters
